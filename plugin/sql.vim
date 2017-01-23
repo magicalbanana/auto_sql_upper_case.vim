@@ -359,6 +359,7 @@ function! UpcaseSQLKeywords()
 	\password\|
 	\path\|
 	\pendant\|
+	\perform\|
 	\placing\|
 	\pli\|
 	\position\|
@@ -374,6 +375,7 @@ function! UpcaseSQLKeywords()
 	\procedural\|
 	\procedure\|
 	\public\|
+        \query\|
 	\read\|
 	\reads\|
 	\real\|
